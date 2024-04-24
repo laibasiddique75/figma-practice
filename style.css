@@ -1,0 +1,15 @@
+.bg-custom{
+    background: hsla(352, 66%, 86%, 0.98);
+}
+.bg-cus{
+    background:#CA9277;
+    
+}
+ .bg-con{
+    padding-right: 250px;
+} 
+.bg-cont{
+    z-index: 2;
+    padding-right: 1200px;
+    margin-top: -880px;
+}
